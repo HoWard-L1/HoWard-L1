@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 
 
-<!--
-**HoWard-L1/HoWard-L1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是李辉雯，就读于福州大学，预计 2022 年毕业。
 
-Here are some ideas to get you started:
+我会 **C、C++**，经常会探讨一些有意思的东西。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我喜欢独自研究问题，当然我也很喜欢交朋友，和同学交流。
+
+这是我的[博客](https://www.cnblogs.com/HoWard-L1/)，我们可以互相关注并讨论。
+
+我的邮箱是 1121915830@qq.com ，欢迎给我发邮件。
+
+如果你对我感兴趣可以联系我，谢谢。
+
